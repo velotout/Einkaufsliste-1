@@ -14,7 +14,7 @@ Vorname: Andreas Peppino
 
 blalbalblabladbkands+fkadsj
 
-![Alternativtext](C:\Users\Andreas\Pictures\Butterfly.jpg "Profilbild")
+![Alternativtext](Butterfly.jpg "Profilbild")
 fpajsdf
 
 asdfa
